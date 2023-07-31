@@ -25,19 +25,11 @@
   },
   "homepage": "https://github.com/karennovaes/baixadarj-bot#readme",
   "dependencies": {
-    "colors": "^1.4.0",
-    "config.js": "^0.1.0",
-    "date": "^1.0.2",
     "discord-modals": "^1.3.9",
-    "discord.js": "^13.0.0",
-    "dotenv": "^16.0.0",
-    "firebase": "^9.5.0",
-    "fivereborn-query": "^1.0.4",
-    "fs": "0.0.1-security",
-    "mysql": "^2.18.1",
-    "mysql2": "^2.3.3",
-    "number-to-words": "^1.2.4",
-    "request": "^2.88.2"
+    "discord.js": "^14.12.0",
+    "dotenv": "^16.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.46.0"
   }
 }
-
