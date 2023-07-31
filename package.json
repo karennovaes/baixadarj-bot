@@ -1,0 +1,43 @@
+{
+  "name": "baixadarj",
+  "version": "1.0.0",
+  "author": "karennovaes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karennovaes/baixadarj-bot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "fivem",
+    "discordjs",
+    "baixadarj",
+    "gtav"
+  ],
+  "license": "GPL-2.0-only",
+  "bugs": {
+    "url": "https://github.com/karennovaes/baixadarj-bot/issues"
+  },
+  "homepage": "https://github.com/karennovaes/baixadarj-bot#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "config.js": "^0.1.0",
+    "date": "^1.0.2",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^13.0.0",
+    "dotenv": "^16.0.0",
+    "firebase": "^9.5.0",
+    "fivereborn-query": "^1.0.4",
+    "fs": "0.0.1-security",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "number-to-words": "^1.2.4",
+    "request": "^2.88.2"
+  }
+}
+
