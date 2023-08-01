@@ -1,6 +1,6 @@
 # BaixadRJ bot
 
-O Bot do Discord da BaixadaRJ Roleplay
+O Bot do Discord da BaixadaRJ Roleplay para whitelist no fivem.
 
 
 ## Como rodar o bot?
